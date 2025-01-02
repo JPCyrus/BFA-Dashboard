@@ -21,9 +21,9 @@ The BAYAD Front-end Application or in short “BAYAD FA” (www.bfa.BAYAD.com), 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+* Data Extraction: Heidi SQL was used to extract data from the AWS database.
+* Data Storage: Raw data was temporarily stored in a SharePoint folder.
+* Data Analysis and Visualization: Microsoft Power BI was utilized for all stages of the project, including data extraction, transformation, loading (ETL), data cleaning, and the creation of an interactive dashboard for web publication.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
