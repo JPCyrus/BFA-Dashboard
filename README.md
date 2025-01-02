@@ -1,9 +1,15 @@
-# BFA Dashboard
+# Bayad FA Dashboard
 
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The BAYAD Front-end Application or in short “BAYAD FA” (www.bfa.BAYAD.com), the over-the-counter payment platform of CIS Bayad Center, Inc. This power bi dashboard objectives are: 
+
+* Track and monitor key performance indicators (KPIs) related to BFA usage, such as the number of transactions, transaction value, user engagement, and platform uptime. This will help CIS Bayad Center understand how effectively the BFA is being used and identify areas for improvement.
+* Provide insights into user behavior on the BFA. This could include information on the types of payments users are making, the devices they are using, and the time of day they are most active. This information can be used to improve the user experience and make the BFA more efficient.
+* Identify trends and patterns in BFA usage over time. This can help CIS Bayad Center forecast future demand and make informed decisions about resource allocation.
+* Support strategic decision-making by providing CIS Bayad Center with data-driven insights into the performance of the BFA. This information can be used to identify new opportunities, develop marketing campaigns, and improve the overall effectiveness of the platform.
+* Improve operational efficiency by providing real-time data on BFA performance. This can help CIS Bayad Center identify and resolve issues quickly, minimize downtime, and ensure that the platform is operating at peak performance.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
