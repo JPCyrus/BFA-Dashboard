@@ -1,8 +1,6 @@
 # Bayad FA Dashboard
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
 The BAYAD Front-end Application or in short “BAYAD FA” (www.bfa.BAYAD.com), the over-the-counter payment platform of CIS Bayad Center, Inc. This power bi dashboard objectives are: 
 
 * Track and monitor key performance indicators (KPIs) related to BFA usage, such as the number of transactions, transaction value, user engagement, and platform uptime. This will help CIS Bayad Center understand how effectively the BFA is being used and identify areas for improvement.
