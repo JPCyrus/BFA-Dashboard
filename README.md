@@ -12,11 +12,44 @@ The BAYAD Front-end Application or in short “BAYAD FA” (www.bfa.BAYAD.com), 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+Data Handling & Management
+* Data Extraction:
+  * Using Heidi SQL to extract data from a database (AWS in this case)
+  * Understanding database structures and querying data effectively
+* Data Transformation & Cleaning:
+  * Using Power BI to transform and clean extracted data
+  * Identifying and handling data inconsistencies, errors, and missing values
+  * Data formatting and manipulation techniques
+  
+Data Analysis & Visualization  
+* Data Analysis:
+  * Analyzing trends and patterns in BFA usage data
+  * Identifying key performance indicators (KPIs) and calculating metrics
+  * Using data to answer business questions and gain insights
+* Data Visualization:
+  * Creating interactive dashboards using Power BI
+  * Selecting appropriate visualizations (charts, graphs, tables) for different types of data
+  * Designing visually appealing and informative dashboards
+  * Using DAX (Data Analysis Expressions) for advanced calculations and data modeling within Power BI
+
+Project Management & Technical Skills
+
+* Project Planning:
+  * Defining project scope, objectives, and deliverables
+  * Creating a project timeline and managing tasks effectively
+* Technical Skills:
+  * Working with cloud-based databases (AWS)
+  * Utilizing SharePoint for data storage and collaboration
+  * Learning and applying Power BI features and functionalities
+
+Soft Skills
+
+* Problem-solving:
+  * Identifying and resolving challenges encountered during data extraction, cleaning, and analysis
+* Communication:
+  * Effectively communicating project progress, findings, and insights to stakeholders
+* Collaboration:
+  * Working with teams to gather requirements and share knowledge
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
