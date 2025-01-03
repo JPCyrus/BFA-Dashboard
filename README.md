@@ -68,6 +68,9 @@ Soft Skills
 *BFA Biller*
 * The dashboard focuses on comparing key performance indicators for the current week to the same week in the previous month, such as total transaction count, GTV, service fee, and average ticket size. Additionally, it features a heatmap that visually represents transaction volume by hour and day of the week, allowing for easy identification of peak transaction times.
 ![BFA Billers](https://github.com/user-attachments/assets/854581d5-2821-4afc-9be5-08fc75245c95)
+
+*BFA Branch*
+* It visualizes top-performing franchisees and Bayad Center-owned branches. A matrix table is incorporated to facilitate the extraction of granular data on all branches, enabling further analysis and reporting.
 ![BFA Branch](https://github.com/user-attachments/assets/e590690a-c93d-49b4-8429-edaa12897fbf)
 ![BFA Data](https://github.com/user-attachments/assets/0a69732f-97e6-461d-80a1-1fa51bc03c70)
 
