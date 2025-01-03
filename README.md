@@ -59,6 +59,7 @@ Soft Skills
 * Data Analysis and Visualization: Microsoft Power BI was utilized for all stages of the project, including data extraction, transformation, loading (ETL), data cleaning, and the creation of an interactive dashboard for web publication.
 
 ## Steps
+*Note: To maintain the confidentiality of sensitive data related to CIS Bayad Center Inc.'s operational performance, the specific numerical values within the dashboard have been intentionally blurred.*
 
 *BFA Overview*
 * The dashboard provides a comprehensive overview of key performance indicators including:
