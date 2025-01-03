@@ -10,7 +10,6 @@ The BAYAD Front-end Application or in short “BAYAD FA” (www.bfa.BAYAD.com), 
 * Improve operational efficiency by providing real-time data on BFA performance. This can help CIS Bayad Center identify and resolve issues quickly, minimize downtime, and ensure that the platform is operating at peak performance.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 Data Handling & Management
 * Data Extraction:
@@ -52,7 +51,6 @@ Soft Skills
   * Working with teams to gather requirements and share knowledge
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 * Data Extraction: Heidi SQL was used to extract data from the AWS database.
 * Data Storage: Raw data was temporarily stored in a SharePoint folder.
