@@ -62,13 +62,7 @@ Soft Skills
 *Note: To maintain the confidentiality of sensitive data related to CIS Bayad Center Inc.'s operational performance, the specific numerical values within the dashboard have been intentionally blurred.*
 
 *BFA Overview*
-* The dashboard provides a comprehensive overview of key performance indicators including:
- * Total transaction count
- * Gross Transaction Value (GTV)
- * Service Fee revenue
- * Monthly average transaction count
- * Transaction count by month with year-over-year (YoY) comparisons
- * Top billers and branches by transaction volume
+* Bayad FA dashboard displaying key performance indicators (KPIs) yearly, including top billers, top branches, total transaction count, GTV, service fee, and monthly average transaction count.
 ![BFA Overview](https://github.com/user-attachments/assets/6021edc7-6a26-4d51-9212-3800056bfa15)
 
 *BFA Biller*
