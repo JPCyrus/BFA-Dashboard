@@ -72,6 +72,9 @@ Soft Skills
 *BFA Branch*
 * It visualizes top-performing franchisees and Bayad Center-owned branches. A matrix table is incorporated to facilitate the extraction of granular data on all branches, enabling further analysis and reporting.
 ![BFA Branch](https://github.com/user-attachments/assets/e590690a-c93d-49b4-8429-edaa12897fbf)
+
+*BFA Data*
+* It visualizes top-performing billers and branches. A matrix table is incorporated to facilitate the extraction of granular data on billers and branches, enabling in-depth analysis and reporting. This data can be used to identify key performance indicators, optimize payment processes, and support business decision-making.
 ![BFA Data](https://github.com/user-attachments/assets/0a69732f-97e6-461d-80a1-1fa51bc03c70)
 
 
